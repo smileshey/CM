@@ -1,0 +1,6 @@
+stop_id,stop_name,stop_lat,stop_lon
+Stop_IslandCity,Island City Central Station,49.712802, -179.280571
+Stop_BeachNorth,The Beach (North) Rail Station,49.493027,-178.975434
+Stop_HauntedJungle,The Haunted Jungle,49.462797,179.866938
+Stop_BambooCross,Bamboo Crossroads,49.433159,-179.115743
+Stop_BeachSouth,The Beach (South) Bus Station,49.403503,-178.966984

@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+Waterfall1,WaterfallRailway,WF1,The Beach <-> Island City,2
+BananaBus1,BananaBuses,Ban1,The Beach <-> Island City,3
+BananaBus2,BananaBuses,Ban2,The Beach <-> The Haunted Jungle,3
